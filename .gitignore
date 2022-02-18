@@ -1,0 +1,12 @@
+.DS_Store
+*.m~
+*.asv
+*.a
+*.vcproj
+*.o
+*.exe
+*.dll
+*.orig
+reset_*.mat
+defaults_*.mat
+
